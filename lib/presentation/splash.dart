@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_1/ui/sighnin.dart';
+import 'package:flutter_application_1/presentation/sighnin.dart';
 
 class Splash extends StatefulWidget {
   const Splash({super.key});

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_1/providers/provider.dart';
+import 'package:flutter_application_1/domain/provider.dart';
 import 'package:provider/provider.dart';
-import 'package:flutter_application_1/ui/sighnin.dart';
+import 'package:flutter_application_1/presentation/sighnin.dart';
 
 class SignUp extends StatefulWidget {
   const SignUp({super.key});

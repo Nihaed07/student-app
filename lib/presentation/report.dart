@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_1/providers/provider.dart';
+import 'package:flutter_application_1/domain/provider.dart';
 import 'package:provider/provider.dart';
-import 'package:flutter_application_1/ui/bottomnav.dart';
-import 'package:flutter_application_1/models/models.dart';
+import 'package:flutter_application_1/presentation/bottomnav.dart';
+import 'package:flutter_application_1/data/models.dart';
 
 class Report extends StatefulWidget {
   const Report({super.key});

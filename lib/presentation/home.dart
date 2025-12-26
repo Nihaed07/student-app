@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_1/providers/provider.dart';
+import 'package:flutter_application_1/domain/provider.dart';
 import 'package:provider/provider.dart';
-import 'package:flutter_application_1/ui/bottomnav.dart';
-import 'package:flutter_application_1/ui/notification.dart';
-import 'package:flutter_application_1/ui/report.dart';
-import 'package:flutter_application_1/ui/settings.dart';
-import 'package:flutter_application_1/ui/text_form.dart';
-import 'package:flutter_application_1/models/models.dart';
+import 'package:flutter_application_1/presentation/bottomnav.dart';
+import 'package:flutter_application_1/presentation/notification.dart';
+import 'package:flutter_application_1/presentation/report.dart';
+import 'package:flutter_application_1/presentation/settings.dart';
+import 'package:flutter_application_1/presentation/text_form.dart';
+import 'package:flutter_application_1/data/models.dart';
 
 class Home extends StatefulWidget {
   const Home({super.key});

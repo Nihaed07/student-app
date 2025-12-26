@@ -1,11 +1,11 @@
 import 'dart:io';
 import 'package:flutter/material.dart';
-import 'package:flutter_application_1/providers/provider.dart';
-import 'package:flutter_application_1/ui/aboutus.dart';
-import 'package:flutter_application_1/ui/bottomnav.dart';
-import 'package:flutter_application_1/ui/help.dart';
-import 'package:flutter_application_1/ui/sighnin.dart';
-import 'package:flutter_application_1/ui/privacy.dart';
+import 'package:flutter_application_1/domain/provider.dart';
+import 'package:flutter_application_1/presentation/aboutus.dart';
+import 'package:flutter_application_1/presentation/bottomnav.dart';
+import 'package:flutter_application_1/presentation/help.dart';
+import 'package:flutter_application_1/presentation/sighnin.dart';
+import 'package:flutter_application_1/presentation/privacy.dart';
 import 'package:image_picker/image_picker.dart';
 import 'package:provider/provider.dart';
 

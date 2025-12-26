@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_1/ui/home.dart';
-import 'package:flutter_application_1/ui/report.dart';
-import 'package:flutter_application_1/ui/settings.dart';
+import 'package:flutter_application_1/presentation/home.dart';
+import 'package:flutter_application_1/presentation/report.dart';
+import 'package:flutter_application_1/presentation/settings.dart';
 
 class BottomNav extends StatefulWidget {
   const BottomNav({super.key});

@@ -1,10 +1,10 @@
 import 'dart:io';
 import 'package:flutter/material.dart';
-import 'package:flutter_application_1/providers/provider.dart';
+import 'package:flutter_application_1/domain/provider.dart';
 import 'package:image_picker/image_picker.dart';
 import 'package:provider/provider.dart';
-import 'package:flutter_application_1/ui/bottomnav.dart';
-import 'package:flutter_application_1/models/models.dart';
+import 'package:flutter_application_1/presentation/bottomnav.dart';
+import 'package:flutter_application_1/data/models.dart';
 
 class TextForm extends StatefulWidget {
   const TextForm({super.key});
